@@ -22,4 +22,3 @@
                           Windows
 4 Instruções:
   Executar o programa no IDLE Python. O programa dará as instruções seguintes.
-  
